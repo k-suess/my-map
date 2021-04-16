@@ -972,7 +972,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/..\/..\/Downloads\/Pipoya RPG Tileset 32x32\/SampleMap\/[Base]BaseChip_pipo.png",
+         "image":"basechip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
