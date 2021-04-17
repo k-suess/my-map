@@ -39,7 +39,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/street\/street.json"
+                 "value":"\/street.json"
                 }],
          "type":"tilelayer",
          "visible":true,
