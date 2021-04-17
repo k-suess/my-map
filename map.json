@@ -37,14 +37,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"\/street.json"
-                }, 
-                {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/street.json"
+                 "value":"\/street\/street.json"
                 }],
          "type":"tilelayer",
          "visible":true,
