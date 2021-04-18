@@ -39,7 +39,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/street.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/k-suess.github.io\/my-map\/street.json"
                 }],
          "type":"tilelayer",
          "visible":true,
